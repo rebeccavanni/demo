@@ -1,5 +1,5 @@
 import json
-
+#hey there people of the earth
 # a simple json array
 MYJSON = """
 {
